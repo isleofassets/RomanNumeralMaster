@@ -24,4 +24,3 @@ Documentation: Included
 ![Screenshot](screenshot-img-a.jpg)
 ![Screenshot](screenshot-img-b.jpg)
 ![Screenshot](screenshot-img-c.jpg)
-![Screenshot](screenshot-img-d.jpg)
